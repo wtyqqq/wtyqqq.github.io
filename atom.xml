@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtyqqq.github.io</id>
     <title>幼稚的小樱桃的小站</title>
-    <updated>2021-02-07T15:41:42.720Z</updated>
+    <updated>2021-02-07T15:54:02.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtyqqq.github.io"/>
     <link rel="self" href="https://wtyqqq.github.io/atom.xml"/>
@@ -27,6 +27,16 @@
 <p>  IP协议：<br>
   网际协议（英语：Internet Protocol，缩写：IP），又称互联网协议，是用于分组交换数据网络的协议。<br>
   IP是在TCP/IP协议族中网络层的主要协议，任务仅仅是根据源主机和目的主机的地址来传送数据。为此目的，IP定义了寻址方法和数据报的封装结构。第一个架构的主要版本为IPv4，目前仍然是广泛使用的互联网协议，尽管世界各地正在积极部署IPv6。</p>
+<h3 id="注意这属于计算机网络的一部分是计算机类考研必考的">注意这属于计算机网络的一部分，是计算机类考研必考的！！！</h3>
+<h2 id="interface-message-processors">Interface Message Processors</h2>
+<p>  相当于交换机(注意不是路由器！二者有区别！尽管现在二者往往都合并为一个设备)，只了解一下即可，详见wiki：<br>
+从英文翻译而来-从1960年代末到1989年，接口消息处理器是用于将参与者网络互连到ARPANET的分组交换节点。它是第一代网关，今天称为路由器。IMP是坚固耐用的霍尼韦尔（Honeywell）DDP-516小型机，具有专用接口和软件。</p>
+<h2 id="tcpip-http">TCP/IP ，HTTP##</h2>
+<p>这部分很难理解，我会把我之前写的一篇文章放在群里，大家参考下</p>
+<h2 id="动态网页和静态网页">动态网页和静态网页</h2>
+<p>  所谓动态和静态，主要就是客观的动静，如果一个网页使用了JS,PHP,MYSQL这类技术，他就是一个动态网页，否则就是一个动态网页。<br>
+  注意：一个动态网页必须使用三层架构！但静态网页可以只使用静态架构。<br>
+<img src="https://wtyqqq.github.io/post-images/1612713234791.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
 </feed>
