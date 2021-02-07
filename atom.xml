@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://wtyqqq.github.io</id>
     <title>幼稚的小樱桃的小站</title>
-    <updated>2021-02-07T16:04:53.430Z</updated>
+    <updated>2021-02-07T16:05:24.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://wtyqqq.github.io"/>
     <link rel="self" href="https://wtyqqq.github.io/atom.xml"/>
@@ -33,7 +33,7 @@
 <blockquote>
 <p>从英文翻译而来-从1960年代末到1989年，接口消息处理器是用于将参与者网络互连到ARPANET的分组交换节点。它是第一代网关，今天称为路由器。IMP是坚固耐用的霍尼韦尔（Honeywell）DDP-516小型机，具有专用接口和软件。</p>
 </blockquote>
-<h2 id="tcpip-http">TCP/IP ，HTTP##</h2>
+<h2 id="tcpip-http">TCP/IP ，HTTP</h2>
 <p>这部分很难理解，我会把我之前写的一篇文章放在群里，大家参考下</p>
 <h2 id="动态网页和静态网页">动态网页和静态网页</h2>
 <p>  所谓动态和静态，主要就是客观的动静，如果一个网页使用了JS,PHP,MYSQL这类技术，他就是一个动态网页，否则就是一个动态网页。<br>
